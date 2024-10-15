@@ -47,3 +47,9 @@ This repository contains the project files for the **Smart Home Prototype**, dev
 ## Our Team
 
    ![Our Team](OurTeam.jpg)
+
+   ## Installation
+
+1. Clone this repository to your local machine.
+   ```bash
+   git clone https://github.com/Mahasonar/smart-Home.git
