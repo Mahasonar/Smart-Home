@@ -40,5 +40,10 @@ This repository contains the project files for the **Smart Home Prototype**, dev
 4. If combustible gases are detected by the MQ2 sensor, an alert is triggered.
 5. The raindrops module controls the servo motor to close the roof when it detects rainfall.
 
+## LabView Front Panel
+
    ![Front Panel](FrontPanel.jpg)
+
+## Our Team
+
    ![Our Team](OurTeam.jpg)
