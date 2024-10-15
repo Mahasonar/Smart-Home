@@ -2,6 +2,8 @@
 
 This repository contains the project files for the **Smart Home Prototype**, developed as part of the "Electrical Measurements and Instrumentation" module in Semester 04 at the University of Moratuwa. The system was designed for enhanced safety and automation using **LabVIEW** and **NI DAQmx**, integrating a variety of sensors and actuators to monitor and control the home environment.
 
+![Smart Home Prototype](Prototype.jpg)
+
 ## Features
 
 - **Fire Detection System:**
